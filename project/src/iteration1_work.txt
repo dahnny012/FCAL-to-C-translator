@@ -1,0 +1,14 @@
+Danh Nguyen
+Josh Varghese
+The Fire Ferrets
+
+Iteration 1 was basically done this weekend in the keller labs. We were together saturday and sunday for the bulk of the edits to the code
+ and making test cases. We were together for about 80% of the development and setting up test cases. This is the reason that most of the commits 
+ are from danh. We would almost always work from his workspace. During monday and tuesday we worked mostly on debugging different aspects of the code.
+ Test cases were worked on immediately after designing our code. Danh came up with using an array with regexs. A smart and modular approach that 
+ makes our code faster and easier to understand. This makes our scan function much shorter than the scan function equivalent in wordcount.
+ Danh ultimately fixed the infinite loop problem we were having and finished up two other failing test cases. Josh took care of the project file 
+ structure and last minute bug fixes. Danh commented all the code to make it easier to understand for TA's.
+ 
+ Our work was done together for the most part. Next iteration we will be giving eachother specific tasks to complete all throughtout the iteration
+ as to not overload ourselves on one weekend like we did during this iteration. 

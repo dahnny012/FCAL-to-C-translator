@@ -1,0 +1,12 @@
+Danh Nguyen
+Josh Varghese
+The Fire Ferrets
+
+Iteration 4 was done jointly like iteration 3. We met up on the weekends
+to implement the cppCode methods for all the classes. Danh dealt with 
+everything not Expr's and Josh implemented it for Expr's.
+
+Danh implemented the Matrix.h and Matrix.cpp in parallel remotely from
+home. Debugging was a joint effort. Lastly, writing the my_code_1/2 samples
+was split. Danh implemented the matrix multiplication test and Josh implemented
+the while loop test.

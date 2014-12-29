@@ -1,0 +1,16 @@
+Danh Nguyen
+Josh Varghese
+The Fire Ferrets
+
+Iteration 3 was mostly finished in remotely on github. We used a online task manager to manage
+who would implement what classes and their parts into the parser.cpp. Josh took implemented
+all the classes that were deemed to be Expr's. Danh took care of the rest. We both equally
+contributed and fixed the bugs and errors in our code. We commented our code seperately.
+Iteration 3 took place mainly over a course of a week. Initially Danh did most of his parts
+while helping Josh do his. Josh worked remotely on SSH while Danh worked in Keller labs. We
+communicated using a chat messenging application.
+
+In the end the we could not finish in time. We did not anticipate the amount of debugging
+that the code would require. But we did our best to make the all 3 files compile it will
+only error on execute. We also divided the workload of creating the UML and doxyfying the code.
+We will get those test cases back in iter4, believe it.

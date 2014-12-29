@@ -1,0 +1,9 @@
+Danh Nguyen
+Josh Varghese
+The Fire Ferrets
+
+Iteration 2 was mostly finished in the lab session. We didn't have to make any changes. Josh took care of the dsl file and Danh worked on the
+ makefile. We both worked on updating the keywords in labs and making our array better for searching. Josh finished up with last minute code fixes.
+ Danh took care of a little compile error. It was an incorrectly placed endif. 
+ 
+ Our code was already good from the fixes asked for in the last lab so there wasn't a lot of work necessary. 
