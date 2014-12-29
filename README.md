@@ -1,2 +1,2 @@
-FCAL-to-C-translator
+FCAL-to-Cpp-translator
 ====================
